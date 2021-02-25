@@ -1,0 +1,31 @@
+.formIdentité{
+background-color: blue;
+font-size: large;
+font-weight:bold;
+
+
+
+}
+.legendidentite {
+    background-color: blue;
+    
+    padding: 3px 6px;
+}
+
+.formAdresseLivraison{
+    background-color: indigo;
+    font-size: large;
+    font-weight: bold;
+}
+.legendAdresseLivraison {
+    background-color:indigo;
+    
+    padding: 3px 6px;
+}
+
+.legendInformationReglement{
+    background-color: rgb(131, 23, 41);
+    padding: 3px 6px;
+    font-size: large;
+    font-weight:bold;
+}
